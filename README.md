@@ -1,2 +1,1 @@
-# site
-fiverr affiliate site
+This is Tre Jordan's personal portfolio site.
