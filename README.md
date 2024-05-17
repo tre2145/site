@@ -1,1 +1,1 @@
-This is Tre Jordan's personal portfolio site.
+this is tre jordan's personal portfolio site.
